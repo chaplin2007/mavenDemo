@@ -8,5 +8,5 @@ public class Main {
 		System.out.println("Hello_world"+a_a);
 		System.out.println("Hello_world 2 "+a_a);
 	}
-
+	
 }
